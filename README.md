@@ -1,1 +1,1 @@
-# PyQt-Student-Record-Management-System
+# Student-Manager-GUI-PyQt
